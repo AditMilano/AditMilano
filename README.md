@@ -1,4 +1,12 @@
-## Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Adit Milano**.<br>
+
+Saya seorang **Mahasiswa** di ITB STIKOM Bali.<br>
+
+Saya merupakan seorang mahasiswa yang sedang mengikuti kegiatan Bangkit Academy di Kampus Merdeka.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/putotyra_kenasuspend/) ku ya.
 
 <!--
 **AditMilano/AditMilano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
