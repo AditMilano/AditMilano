@@ -8,7 +8,7 @@ Saya merupakan seorang mahasiswa yang sedang mengikuti kegiatan Bangkit Academy 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/putotyra_kenasuspend/) ku ya.
 
-## Stats hanyalah pajangan, tidak ada hubungannya dengan skill. Sedang mengikuti tutorial!
+## Still Learning!
 <p align="left">
 <a href="https://github.com/AditMilano">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
